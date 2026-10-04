@@ -9,7 +9,7 @@
 | **Semester** | 3rd Semester |
 | **Programming Language** | C++20 |
 | **GitHub Repository** | https://github.com/rakshitahibare1-ship-it/HackerRank-3rdSem-Algorithm-Portfolio |
-| **HackerRank Profile** | Add your HackerRank profile URL here |
+| **HackerRank Profile** | https://www.hackerrank.com/profile/rakshitahibare1 |
 
 ---
 
